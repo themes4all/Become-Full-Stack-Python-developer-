@@ -3,9 +3,9 @@ Become Full Stack Python developer
 ---------------------------------
 PYTHON 3 | INTRODUCTION | #01
 *PROGRAMME*
-Season ​1 : Python Basics + Exercices
-Season 2 : Python with MySQL + Exercices
-Season 3 : Python with SQLite + Exercices
+Season ​1 : Python Basics + Exercices <br>
+Season 2 : Python with MySQL + Exercices <br>
+Season 3 : Python with SQLite + Exercices <br>
 Season 4 : Python with PostgreSQL + Exercices
 Season 5 : Python with SQLAlchemy + Exercices
 Season 6 : Object-Oriented Programming (OOP) in Python 3 + Exercices

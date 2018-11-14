@@ -1,6 +1,7 @@
 # Become-Full-Stack-Python-developer-
 Become Full Stack Python developer  <br>
 ---------------------------------
+Author | <b>Houssam Hammouda</b> <br>
 PYTHON 3 | INTRODUCTION | #01 <br>
 *PROGRAMME* <br>
 Season ​1 : Python Basics + Exercices <br>

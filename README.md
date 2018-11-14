@@ -2,6 +2,8 @@
 Become Full Stack Python developer  <br>
 ---------------------------------
 Author | <b>Houssam Hammouda</b> <br>
+Copyright (c) 2018 Houssam Hammouda. All rights reserved.<br>
+
 PYTHON 3 | INTRODUCTION | #01 <br>
 *PROGRAMME* <br>
 Season ​1 : Python Basics + Exercices <br>

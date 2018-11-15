@@ -1,1 +1,69 @@
-Coming Soon
+THE HISTORY OF PYTHON 2 VS 3
+-------------------------------------------------------------------------------------------------------------------------------------
+Let's begin with a brief timeline of Python 2 vs 3 usage.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+* Python 2.0 was first released in 2000. Its latest version, 2.7, was released in 2010.
+* Python 3.0 was released in 2008. Its newest version, 3.6, was released in 2016, and version 3.7 is currently in development.
+* Although Python 2.7 is still widely used, Python 3 adoption is growing quickly. In 2016, 71.9% of projects used Python 2.7, but by 2017, it had fallen to 63.7%. This signals that the programming community is turning to Python 3–albeit gradually–when developing real-world applications.
+* Notably, on January 1, 2018, Python 2.7 will “retire” and no longer be maintained. (The clock is literally ticking!)
+
+Next, we'll move on to the differences for Python 2 vs 3 in 2018.
+
+WHAT ARE THE MAIN PYTHON 2 VS 3 2018 DIFFERENCES?
+
+There are plenty of differences between these Python programming versions, but here are five of the main ones.
+
+The print function
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Very trivial, and the change in the print-syntax is probably the most
+widely known change, but still it is worth mentioning: Python 2’s
+print statement has been replaced by the print() function, meaning
+that we have to wrap the object that we want to print in parantheses.
+
+Python 2 doesn’t have a problem with additional parantheses, but in contrast, 
+Python 3 would raise a SyntaxError if we called the print function the Python 2-way without the parentheses.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Python 2 Example : 
+-------------------------------------------------------------------------------------------------------------------------------------
+Codes:
+-------------------------------------------------------------------------------------------------------------------------------------
+print 'Python', python_version()
+print 'Hello, World!'
+print('Hello, World!')
+print "text", ; print 'print more text on the same line'
+-------------------------------------------------------------------------------------------------------------------------------------
+Result:
+-------------------------------------------------------------------------------------------------------------------------------------
+Python 2.7.6
+Hello, World!
+Hello, World!
+text print more text on the same line
+-------------------------------------------------------------------------------------------------------------------------------------
+Python 3 Example :
+-------------------------------------------------------------------------------------------------------------------------------------
+Codes:
+-------------------------------------------------------------------------------------------------------------------------------------
+print('Python', python_version())
+print('Hello, World!')
+print("some text,", end="")
+print(' print more text on the same line')
+-------------------------------------------------------------------------------------------------------------------------------------
+Result:
+-------------------------------------------------------------------------------------------------------------------------------------
+Python 3.4.1
+Hello, World!
+some text, print more text on the same line
+print 'Hello, World!'
+-------------------------------------------------------------------------------------------------------------------------------------
+Note : 
+-------------------------------------------------------------------------------------------------------------------------------------
+File "<ipython-input-3-139a7c5835bd>", line 1
+print 'Hello, World!'
+SyntaxError: invalid synta
+
+
+
+

@@ -1,1 +1,51 @@
-Coming Soon 
+---------------------------------------------------------------------------------------------------------------------------------------
+Development Environments
+---------------------------------------------------------------------------------------------------------------------------------------
+A development environment is a combination of a text editor and a Python runtime environment.
+The text editor allows you to write the code. The runtime environment implementation such as CPython or PyPy 
+provides the method for executing your code.
+
+A text editor can be as simple as Notepad on Windows or more complicated as a complete integrated development environment (IDE) 
+such as PyCharm which runs on any major operating system.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Why is a development environment necessary?
+---------------------------------------------------------------------------------------------------------------------------------------
+Python code needs to be written, executed and tested to build applications. 
+The text editor provides a way to write the code. The interpreter allows it to be executed. 
+Testing to see if the code does what you want can either be done manually or by unit and functional tests.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+An example development environment
+---------------------------------------------------------------------------------------------------------------------------------------
+Here's what I (the author of Full Stack Python, Matt Makai) use to develop most of my Python applications. 
+I have a Macbook Pro with Mac OS X as its base operating system. Ubuntu 18.04 LTS is virtualized on top with Parallels. 
+My code is written in vim and executed with the Python 3.6 release via the command line. I use virtualenv to create 
+separate Python interpreters with their own isolated application dependencies and virtualenvwrapper to quickly switch 
+between the interpreters created by virtualenv.
+
+That's a common set up but you can certainly write great code with a much less expensive 
+set up or a cloud-based development environment.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Other developers' environments
+---------------------------------------------------------------------------------------------------------------------------------------
+
+My Python development environment has a setup with Sublime Text, Anaconda, PyCharm and the author's workflow 
+for how to use the different editors for different purposes.
+
+My Python Development Environment, 2018 Edition explains Jacob Kaplan-Moss' (one of the original creators of the Django web framework) 
+local setup.
+
+The definitive guide to setup my Python workspace is geared towards using Python for data science but the guide remains 
+useful for configuring your system for any type of Python work. There is some solid advice in the post about not adulterating 
+your global Python installation as well as how to split out many virtual environments for Python 2 & 3.
+
+
+
+
+
+
+
+
+

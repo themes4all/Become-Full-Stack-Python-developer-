@@ -30,6 +30,41 @@ Why Python?
 * Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 * Python can be treated in a procedural way, an object-orientated way or a functional way.
 
+The Python Language
+-------------------
+
+Python is a powerful high-level, object-oriented programming language created by Guido van Rossum.
+The Python programming language is an opensource, widely-used tool for creating software applications.
+
+Why Use Python?
+---------------
+
+Python's expansive library of open source data analysis tools,web frameworks, and testing instruments make its ecosystem one ofthe largest out of any programming community.
+Python is an accessible language for new programmers because
+the community provides many introductory resources. The language is also widely taught in universities and used for
+working with beginner-friendly devices such as the Raspberry Pi.
+
+WHAT IS PYTHON USER FOR?
+------------------------
+
+Python is often used to build and deploy web applications and web APIs.
+Python can also analyze and visualize data and test software, even if the software being tested was not written in Python.
+
+WHAT SHOULD I LEARN AS A BEGINNER: PYTHON 2 OR PYTHON 3?
+--------------------------------------------------------
+
+In the past, there was a bit of a debate in the coding community about which Python version was the best one to learn: Python 2 vs Python 3 (or, specifically, Python 2.7 vs 3.5).
+
+Now, in 2018, it’s more of a no-brainer: Python 3 is the clear
+winner for new learners or those wanting to update tudemheir skills.
+Here, we'll cover why Python 3 is better, and why companies have
+been moving from Python 2 to 3 en masse.
+
+So, without further ado, let’s take a look at some of the major
+differences betweenPython 2 vs Python 3–plus where to learn Python 3
+programming as a beginner.
+
+
 The best for you to know
 ------------------------
 
